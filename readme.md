@@ -14,3 +14,7 @@ This is my feature branch
 ## Main Update
 
 Update from main branch.
+
+## Project Structure
+
+This project is used to learn Git workflow.
