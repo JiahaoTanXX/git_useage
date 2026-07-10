@@ -14,3 +14,8 @@ This is my feature branch
 ## Main Update
 
 Update from main branch.
+
+## Project Structure
+
+This project is a practice repository for learning Git branches,
+commits, pull requests, and collaboration workflow.
