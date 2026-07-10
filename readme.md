@@ -17,4 +17,5 @@ Update from main branch.
 
 ## Project Structure
 
-This project is used to learn Git workflow.
+This project is a practice repository for learning Git branches,
+commits, pull requests, and collaboration workflow.
